@@ -1,7 +1,7 @@
 # Temporary Content Marker
 A Godot plugin to help you remember temporarily added features before shipping.
 
-Has it ever happened to you that you shipped a build with a feature you previously disabled for testing purposes? Or the opposite, that you accidentally included something you didn't want to?
+Has it ever happened to you that you shipped a build with a feature you previously disabled for testing purposes, making it not work in the live game? Or the opposite, that you accidentally included something you didn't want to?
 
 We've all been there. I wrote this pretty simple plugin to make development easier for myself, and I thought I might as well share it with everyone else!
 
