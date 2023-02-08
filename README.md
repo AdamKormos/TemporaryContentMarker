@@ -10,7 +10,7 @@ We've all been there. I wrote this pretty simple plugin to make development easi
 3. Go to Godot's Plugins tab (Project -> Project Settings -> Plugins) and tick "Enable" by the plugin.
 4. You're good to go! Don't forget to read the documentation and add directories the code should ignore. You can modify the designation word and expand the list of ignorable directories at the top of the [TempContentMarker.gd](https://github.com/AdamKormos/TemporaryContentMarker/blob/main/addons/temp_content_marker/TempContentMarker.gd) script.
 
-IMPORTANT: You can get rid of every file in this plugin except this script and "plugin.cfg". The rest of the files are just for demonstration.
+IMPORTANT: You can get rid of every file in this plugin except the TempContentMarker.gd script and "plugin.cfg". The rest of the files are just for demonstration of how the system works.
 
 # Contact
 If you have any questions/concerns or just wanna say hi, you can hit me up at [Twitter](https://twitter.com/olcgreen) or add me on Discord (Green#8661)
