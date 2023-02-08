@@ -7,6 +7,7 @@ extends EditorPlugin
 # track of what you've temporarily modified and prevents you from accidentally
 # shipping these modifications in builds.
 # To disable the functionality, just set this plugin to Disabled in the Plugins tab.
+# IMPORTANT: You can get rid of every file in this plugin except this script and "plugin.cfg". The rest of the files are just for demonstration.
 const markerText : String = "no-checkin"
 
 # You can expand this list with absolute directory paths to optimize look-up speed. In most projects,
