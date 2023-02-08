@@ -2,7 +2,8 @@
 A Godot plugin to help you remember temporarily added features before shipping.
 
 Has it ever happened to you that you shipped a build with a feature you previously disabled for testing purposes? Or the opposite, that you accidentally included something you didn't want to?
-We've all been there. I wrote this pretty simple plugin to make development easier for myself, so I might as well share it with everyone!
+
+We've all been there. I wrote this pretty simple plugin to make development easier for myself, and I thought I might as well share it with everyone else!
 
 # Instructions
 1. Download the plugin from the Godot Asset Library or the zip file of this repo by clicking on "Code", and the "Local" menu. You should see a "Download ZIP" option.
@@ -13,4 +14,4 @@ We've all been there. I wrote this pretty simple plugin to make development easi
 IMPORTANT: You can get rid of every file in this plugin except the TempContentMarker.gd script and "plugin.cfg". The rest of the files are just for demonstration of how the system works.
 
 # Contact
-If you have any questions/concerns or just wanna say hi, you can hit me up at [Twitter](https://twitter.com/olcgreen) or add me on Discord (Green#8661)
+If you have any questions/concerns or just wanna say hi, you can message me on [Twitter](https://twitter.com/olcgreen) or add me on Discord (Green#8661)
